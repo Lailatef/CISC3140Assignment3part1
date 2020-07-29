@@ -1,0 +1,21 @@
+  
+  body{ 
+
+background: url(https://cdn.pixabay.com/photo/2019/04/24/11/27/flowers-4151900_1280.jpg);
+}
+.Laila {
+	   color:white; 
+	   font-family:blod;
+	   font-size:20px;
+	   text-align:center;
+	   background:pink;
+}
+
+
+  table{color: black;background-color: pink;border: 6px solid black;border-width: 20px; margin-left:auto; 
+    margin-right:auto; }
+  th{color: white;background-color: black;outline-style: solid;outline-width: 2px;border: 2px solid black;}
+  input[type="text"]{background-color: #DEDEE6;border: 4px solid black;}
+  input[type="button"],input[type="reset"]{color: white;background-color: black;border: 1px solid white;}
+  div{text-align:center;}
+  
